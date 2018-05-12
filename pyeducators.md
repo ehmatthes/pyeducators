@@ -6,7 +6,13 @@ Goal/ Mission
 
 PyEducators strives to support people and projects in all areas where Python and Education overlap. This includes:
 
-- Early exposure to programming
+- [Early exposure to programming](#early-exposure)
+
+
+Details
+---
+
+- <a name='early-exposure'>Early exposure to programming
   - Scratch
   - Other projects for piquing the interest of young people, such as Ozobots
   - Projects such as Detroit Library program
