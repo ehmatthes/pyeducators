@@ -14,6 +14,7 @@ What next?
 ---
 
 - Is there consensus that this is the right next step?
+  - [Issue for discussion](https://github.com/ehmatthes/pyeducators/issues/1)
 - Draft a mission/ purpose statement.
 - Define our platform.
 - Build a website to communicate the platform.
