@@ -13,6 +13,8 @@ PyEducators strives to support people and projects in all areas where Python and
 - [Adult education](#adult-ed)
 - [Corporate Training](#corporate)
 
+[home](README.md)
+
 
 Details
 ---
