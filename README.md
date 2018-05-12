@@ -1,5 +1,5 @@
 PyEducators
 ===
 
-[Proposal](proposal.md)
-[PyEducators](pyeducators.md)
+- [Proposal](proposal.md)
+- [PyEducators](pyeducators.md)
